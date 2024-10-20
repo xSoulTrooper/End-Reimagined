@@ -1,0 +1,50 @@
+{
+  "adventure": {
+    "sounds": [
+      {
+        "name": "end_reimagined:adventure",
+        "stream": true
+      }
+    ]
+  },
+  "crystal": {
+    "sounds": [
+      {
+        "name": "end_reimagined:crystal",
+        "stream": true
+      }
+    ]
+  },
+  "wanderer": {
+    "sounds": [
+      {
+        "name": "end_reimagined:wanderer",
+        "stream": true
+      }
+    ]
+  },
+  "spielchip": {
+    "sounds": [
+      {
+        "name": "end_reimagined:spielchip",
+        "stream": true
+      }
+    ]
+  },
+  "jean": {
+    "sounds": [
+      {
+        "name": "end_reimagined:jean",
+        "stream": true
+      }
+    ]
+  },
+  "umbrella_grassland": {
+    "sounds": [
+      {
+        "name": "end_reimagined:umbrella_grassland",
+        "stream": false
+      }
+    ]
+  }
+}

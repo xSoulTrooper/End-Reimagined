@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "end_reimagined:shadow_pear_planks"
+    }
+  },
+  "result": {
+    "id": "end_reimagined:shadow_pear_trap_door",
+    "count": 1
+  }
+}

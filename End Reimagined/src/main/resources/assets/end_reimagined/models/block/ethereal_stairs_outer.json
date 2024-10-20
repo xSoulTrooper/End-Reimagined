@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "end_reimagined:block/ethereal_planks",
+    "bottom": "end_reimagined:block/ethereal_planks",
+    "top": "end_reimagined:block/ethereal_planks",
+    "side": "end_reimagined:block/ethereal_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "end_reimagined:ethereal_fence",
+    "end_reimagined:ethereal_trapdoor",
+    "end_reimagined:ethereal_door",
+    "end_reimagined:ethereal_button",
+    "end_reimagined:ethereal_pressure_plate",
+    "end_reimagined:ethereal_fence_gate",
+    "end_reimagined:ethereal_slab",
+    "end_reimagined:ethereal_stairs",
+    "end_reimagined:shadow_pear_trap_door",
+    "end_reimagined:shadow_pear_door",
+    "end_reimagined:shadow_pear_button",
+    "end_reimagined:shadow_pear_pressure_plate",
+    "end_reimagined:shadow_pear_fence_gate",
+    "end_reimagined:shadow_pear_fence",
+    "end_reimagined:shadow_pear_slab",
+    "end_reimagined:shadow_pear_stairs",
+    "end_reimagined:shadow_pear_planks",
+    "end_reimagined:shadow_pear_log",
+    "end_reimagined:shadow_pear_wood",
+    "end_reimagined:ethereal_planks",
+    "end_reimagined:ethereal_log",
+    "end_reimagined:ethereal_wood"
+  ]
+}

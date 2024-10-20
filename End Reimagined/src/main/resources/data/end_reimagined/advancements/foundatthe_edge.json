@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "end_reimagined:ender_debris"
+    },
+    "title": {
+      "translate": "advancements.foundatthe_edge.title"
+    },
+    "description": {
+      "translate": "advancements.foundatthe_edge.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "foundatthe_edge_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "end_reimagined:ender_debris"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "end_reimagined:the_end_update"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "end_reimagined:item/shadow_pear_door"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "end_reimagined:shadow_pear_planks"
+    }
+  },
+  "result": {
+    "id": "end_reimagined:shadow_pear_slab",
+    "count": 6
+  }
+}

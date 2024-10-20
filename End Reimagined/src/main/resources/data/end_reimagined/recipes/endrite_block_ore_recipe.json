@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "end_reimagined:endrite_block"
+    }
+  ],
+  "result": {
+    "id": "end_reimagined:enderite",
+    "count": 9
+  }
+}

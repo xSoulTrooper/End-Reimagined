@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "category": "redstone",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "end_reimagined:ethereal_planks"
+    }
+  },
+  "result": {
+    "id": "end_reimagined:ethereal_pressure_plate",
+    "count": 1
+  }
+}

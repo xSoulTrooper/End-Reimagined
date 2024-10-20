@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "abc",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "b": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "c": {
+      "item": "end_reimagined:endrite_stone"
+    }
+  },
+  "result": {
+    "id": "end_reimagined:enderite",
+    "count": 1
+  }
+}

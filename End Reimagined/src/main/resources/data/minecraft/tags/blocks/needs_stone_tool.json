@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "end_reimagined:cracked_purpur_block",
+    "end_reimagined:purpur_brick_wall",
+    "end_reimagined:shadow_grass_block",
+    "end_reimagined:ender_grass_block"
+  ]
+}

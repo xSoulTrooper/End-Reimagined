@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "minecraft:block/end_stone",
+    "top": "end_reimagined:block/shadow_grass_top",
+    "side": "end_reimagined:block/shadow_grass_side",
+    "overlay": "end_reimagined:block/shadow_grass_side",
+    "particle": "minecraft:block/end_stone"
+  },
+  "render_type": "cutout_mipped"
+}

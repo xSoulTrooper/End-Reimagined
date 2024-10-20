@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "end_reimagined:block/ender_debris_top",
+    "top": "end_reimagined:block/ender_debris_top",
+    "side": "end_reimagined:block/ender_debris_side",
+    "overlay": "end_reimagined:block/ender_debris_side",
+    "particle": "end_reimagined:block/ender_debris_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "particle": "end_reimagined:block/shadowpear_planks",
+    "texture": "end_reimagined:block/shadowpear_planks"
+  },
+  "render_type": "solid"
+}

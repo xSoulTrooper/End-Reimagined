@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "features": "end_reimagined:bushy_grass_tall",
+  "step": "vegetal_decoration"
+}

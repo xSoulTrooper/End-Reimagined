@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "end_reimagined:block/ethereal_log_top",
+    "up": "end_reimagined:block/ethereal_log_top",
+    "north": "end_reimagined:block/ethereal_log_side",
+    "east": "end_reimagined:block/ethereal_log_side",
+    "south": "end_reimagined:block/ethereal_log_side",
+    "west": "end_reimagined:block/ethereal_log_side",
+    "particle": "end_reimagined:block/ethereal_log_top"
+  },
+  "render_type": "solid"
+}

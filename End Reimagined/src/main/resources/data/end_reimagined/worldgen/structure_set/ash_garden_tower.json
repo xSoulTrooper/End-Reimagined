@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "end_reimagined:ash_garden_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 17,
+    "separation": 4,
+    "salt": 1003990782
+  }
+}

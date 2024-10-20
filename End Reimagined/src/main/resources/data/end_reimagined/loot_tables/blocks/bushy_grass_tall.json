@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "end_reimagined:blocks/bushy_grass_tall",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "end_reimagined:bushy_grass_tall"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "end_reimagined:ash_graden",
+  "features": "end_reimagined:shadow_moshroom",
+  "step": "vegetal_decoration"
+}

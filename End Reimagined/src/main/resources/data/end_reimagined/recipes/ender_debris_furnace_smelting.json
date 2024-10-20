@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 3,
+  "cookingtime": 260,
+  "ingredient": {
+    "item": "end_reimagined:ender_debris"
+  },
+  "result": {
+    "id": "end_reimagined:endrite_stone"
+  }
+}
