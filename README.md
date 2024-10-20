@@ -1,2 +1,2 @@
-# The-End-Update
-You think The End ist Boring? Probelm Solved, with my The End Update Mod.
+# End Reimagined
+You think The End ist Boring? Probelm Solved, with my End Reimagined Mod.
