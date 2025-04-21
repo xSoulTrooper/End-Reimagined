@@ -42,7 +42,7 @@ No more boring End explorations — discover, craft, and conquer like never befo
 
 ### 🧩 Mod Loader
 
-[![neoforge](https://raw.githubusercontent.com/xSoulTrooper/xSoulTrooper/blob/main/source-assets/Available%20for%20NeoForge.png)](https://neoforged.net)
+[![neoforge](https://raw.githubusercontent.com/xSoulTrooper/xSoulTrooper/main/source-assets/Available%20for%20NeoForge.png)](https://neoforged.net)
 
 > This mod requires **NeoForge**.  
 > It is **not compatible** with Forge or Fabric.
