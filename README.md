@@ -40,6 +40,15 @@ No more boring End explorations — discover, craft, and conquer like never befo
 
 ---
 
+### 🧩 Mod Loader
+
+[![neoforge](https://raw.githubusercontent.com/xSoulTrooper/xSoulTrooper/blob/main/source-assets/Available%20for%20NeoForge.png)](https://neoforged.net)
+
+> This mod requires **NeoForge**.  
+> It is **not compatible** with Forge or Fabric.
+
+---
+
 ### 🤝 Support & Credits
 
 [![GitHub](https://raw.githubusercontent.com/Kaisoneo/Kaisoneo/main/source-assets/cozy/social/github-singular_64h.png)](https://github.com/Kaisoneo/End-Reimagined)
